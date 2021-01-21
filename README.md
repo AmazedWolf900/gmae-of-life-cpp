@@ -1,1 +1,1 @@
-# Game of Life writtent in C++
+# Game of Life written in C++
