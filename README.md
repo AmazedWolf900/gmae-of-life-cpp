@@ -1,0 +1,1 @@
+# Game of Life writtent in C++
