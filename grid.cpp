@@ -3,7 +3,7 @@
     @file grid.cpp
     @file grid.h
     @author Tomáš Weber
-    @version 6th Dec 2020
+    @version 21.1.21
 */
 
 #include "grid.h"
